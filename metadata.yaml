@@ -1,0 +1,26 @@
+_repo: The-Moving-Picture-Boys-and-the-FloodPerilous-Days-on-the-Mississippi_46011
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46011-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Appleton, Victor
+    gutenberg_agent_id: '267'
+    url: http://www.gutenberg.org/2009/agents/267
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Appleton
+description: ''
+gutenberg_issued: '2014-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46011'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Floods -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mississippi River -- Juvenile fiction'
+title: The Moving Picture Boys and the Flood; Or, Perilous Days on the Mississippi
+url: http://www.gutenberg.org/ebooks/46011
