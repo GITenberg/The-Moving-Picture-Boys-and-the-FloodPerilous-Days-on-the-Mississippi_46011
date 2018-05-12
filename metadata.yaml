@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/267
     wikipedia: http://en.wikipedia.org/wiki/Victor_Appleton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46011#The-Moving-Picture-Boys-and-the-FloodPerilous-Days-on-the-Mississippi
 gutenberg_issued: '2014-06-17'
 gutenberg_type: Text
 identifiers:
